@@ -32,7 +32,7 @@ public class VisionController : MonoBehaviour {
 		} else {
 			direction = this.transform.forward;
 		}
-		Debug.Draw (this.transform.position, direction * visionRange, Color.red, 0f);
+		Debug.DrawRay (this.transform.position, direction * visionRange, Color.red, 0f);
 		return Physics.Raycast (this.transform.position, direction * visionRange, out hit, visionRange) && hit.collider.CompareTag ("Player");
 	}
 

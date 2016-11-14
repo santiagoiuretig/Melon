@@ -5,7 +5,7 @@
       <File FileName="Assets\Scripts\Enemy\EnemyStateMachine.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Enemy\EnemyPatrolState.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Enemy\EnemyActionState.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Enemy\VisionController.cs" Line="35" Column="78" />
+      <File FileName="Assets\Scripts\Enemy\VisionController.cs" Line="35" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
